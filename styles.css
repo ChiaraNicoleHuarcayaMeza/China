@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #dbafa0;
+}
+.china {
+  display: flex;
+  justify-content: center;
+}
+.china img {
+  width: 500px;
+  margin: 50px;
+}
+.china p {
+  font-size: 50px;
+  font-weight: bold;
+  color: #49243e;
+}
+.sub {
+  display: flex;
+  font-size: 30px;
+  font-weight: bold;
+  color: #522258;
+}
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.content p {
+  font-size: 30px;
+  color: #8c3061;
+  text-align: justify;
+  margin-left: 30px;
+  margin-right: 30px;
+}
